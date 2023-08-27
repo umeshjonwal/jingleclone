@@ -444,7 +444,7 @@ margin-right: 10px;
 
 @media (max-width: 1040px) {
   #menu-icon {
-    display: block;
+    display: fixedk;
   }
   .sticky #menu-icon{
     color: var(--text-color);
